@@ -13,25 +13,23 @@
 // Method2("тест");
 
 // 3 метод
-// int Method3()
-// {
-//     return DateTime.Now.Year;
-// }
-// int year = Method3();
+int Method3()
+{
+    return DateTime.Now.Year;
+}
+int year = Method3();
 // Console.WriteLine(year);
 
 // 4 метод
 string Method4(int count, string text)
 {
-    int i = 0;
     string result = String.Empty; // создаём пустую строку
 
-    while (i < count)
+    for (int i = 0; i < count; i++)
     {
-        result = result + text;
-        i++;
+        result = result + text + i;
     }
     return result;
 }
-string res = Method4(10, "asdf");
+string res = Method4(10, " тест ");
 Console.WriteLine(res);
