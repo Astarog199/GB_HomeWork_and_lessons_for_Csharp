@@ -63,7 +63,6 @@ void Calc(int[] array)
     if ((array.Length % 2) == 1)
     {
         Console.WriteLine(array.Length - (array.Length / 2));
-
         newArray[size - 1] = array[array.Length / 2];
     }
 
