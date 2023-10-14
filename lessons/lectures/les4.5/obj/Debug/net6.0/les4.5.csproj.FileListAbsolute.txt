@@ -1,0 +1,15 @@
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\obj\Debug\net6.0\les4.5.csproj.AssemblyReference.cache
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\obj\Debug\net6.0\les4.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\obj\Debug\net6.0\les4.5.AssemblyInfoInputs.cache
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\obj\Debug\net6.0\les4.5.AssemblyInfo.cs
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\obj\Debug\net6.0\les4.5.csproj.CoreCompileInputs.cache
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\bin\Debug\net6.0\les4.5.exe
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\bin\Debug\net6.0\les4.5.deps.json
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\bin\Debug\net6.0\les4.5.runtimeconfig.json
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\bin\Debug\net6.0\les4.5.dll
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\bin\Debug\net6.0\les4.5.pdb
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\obj\Debug\net6.0\les4.5.dll
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\obj\Debug\net6.0\refint\les4.5.dll
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\obj\Debug\net6.0\les4.5.pdb
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\obj\Debug\net6.0\les4.5.genruntimeconfig.cache
+C:\Users\astar\OneDrive\Рабочий стол\Android\Home work(android)\GB_HomeWork_and_lessons_for_Csharp\lessons\les4.5\obj\Debug\net6.0\ref\les4.5.dll
